@@ -18,7 +18,7 @@ In this project, I will use an existing database and enhance the functionality u
 
 ## MySQL Queries
 
-[UseCase.sql.zip](https://github.com/pwynn3/campuseatsmodel/files/5612996/UseCase.sql.zip)
+
 
 ## Stored Procedure
 ## Web/App Implementation
