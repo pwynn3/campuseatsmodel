@@ -18,7 +18,7 @@ In this project, I will use an existing database and enhance the functionality u
 
 ## Data Dictionary
 
-[DataDictionary.pdf](https://github.com/pwynn3/campuseatsmodel/files/5613093/DataDictionary.pdf)
+[Data Dictionary](DataDictionary.pdf)
 
 ## MySQL Queries
 
