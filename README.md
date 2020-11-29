@@ -17,6 +17,9 @@ In this project, I will use an existing database and enhance the functionality u
 ![EERD](https://user-images.githubusercontent.com/73601140/100555369-09110f80-3269-11eb-99c9-c9d3f37eebde.png)
 
 ## MySQL Queries
+
+UseCase.sql
+
 ## Stored Procedure
 ## Web/App Implementation
 ## MySQL dump
