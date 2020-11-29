@@ -16,6 +16,10 @@ In this project, I will use an existing database and enhance the functionality u
 
 ![EERD](https://user-images.githubusercontent.com/73601140/100555369-09110f80-3269-11eb-99c9-c9d3f37eebde.png)
 
+## Data Dictionary
+
+[DataDictionary.pdf](https://github.com/pwynn3/campuseatsmodel/files/5613093/DataDictionary.pdf)
+
 ## MySQL Queries
 
 [Campus Eats Script](CampusEatsScript.sql)
