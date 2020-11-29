@@ -18,7 +18,7 @@ In this project, I will use an existing database and enhance the functionality u
 
 ## MySQL Queries
 
-
+[Use Case Query](UseCase.sql)
 
 ## Stored Procedure
 ## Web/App Implementation
