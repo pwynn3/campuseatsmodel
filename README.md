@@ -17,8 +17,11 @@ In this project, I will use an existing database and enhance the functionality u
 ![EERD](https://user-images.githubusercontent.com/73601140/100555369-09110f80-3269-11eb-99c9-c9d3f37eebde.png)
 
 ## MySQL Queries
-[Campus Eats Script](Campus Eats Script.sql)
-[Retrieve All](RetrieveAll.sql)
+
+[Campus Eats Script](CampusEatsScript.sql)
+
+[Retrieve All](RetriveAll.sql)
+
 [Use Case Query](UseCase.sql)
 
 
